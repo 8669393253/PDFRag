@@ -5,3 +5,4 @@ sentence-transformers==2.2.2
 PyPDF2==3.0.1
 groq==0.18.0
 langchain
+huggingface_hub==0.16.4
